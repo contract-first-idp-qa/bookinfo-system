@@ -1,0 +1,7 @@
+apiVersion: backstage.io/v1alpha1
+kind: System
+metadata:
+  name: bookinfo
+  description: Book Info
+spec:
+  owner: group:default/backstage-admins
